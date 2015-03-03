@@ -1,0 +1,12 @@
+textarea.wstr_value{
+	display: inline-block;
+	vertical-align:middle;
+	width: 800px;
+	height: 65px;
+	margin: 5px 0px 5px 0px;
+}
+
+input.wstr_options{
+	width: 80px;
+	margin: 10px;
+}
